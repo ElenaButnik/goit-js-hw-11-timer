@@ -1,0 +1,2 @@
+*,:after,:before{margin:0;padding:0}body{font-family:Lato,sans-serif;font-size:70px;color:#3b2e2e;background-color:#d48e0c}.timer{display:grid;grid-template-columns:repeat(4,1fr);gap:20px;text-align:center;position:absolute;top:50%;left:50%;transform:translate(-50%,-50%)}.field{display:flex;flex-direction:column;background-color:#fcefef;border-radius:5px}.label{font-size:25px;background-color:#8f671e}
+/*# sourceMappingURL=/parcel-project-template/styles.2bbac130.css.map */
