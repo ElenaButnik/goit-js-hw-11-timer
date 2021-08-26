@@ -77,13 +77,13 @@ class CountdownTimer {
   //     refs.day.textContent = days < 10 ? `0${days}` : days;
   
   
-  //     //console.log (secs);
-  //     //console.log (mins);
-  //     //console.log(Math.floor(delta / 1000));
+      //console.log (secs);
+      //console.log (mins);
+      //console.log(Math.floor(delta / 1000));
   // }
   
   // function timerStart() {
   //     startDate = Date.now();
   //     id = setInterval(calc, 1000);
-  //     //console.log(start);
+      //console.log(start);
   // }
